@@ -1,0 +1,34 @@
+name: application1blogflutter2
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  shared_preferences: ^2.0.7
+  connectivity: ^3.0.6
+  get: ^4.1.4
+  flutter_svg: ^0.22.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/poppinssemibold600.ttf
+          weight: 600
+        - asset: assets/fonts/poppinsmedium500.ttf
+          weight: 500
+        - asset: assets/fonts/poppinsbold700.ttf
+          weight: 700
+        - asset: assets/fonts/poppinsregular400.ttf
+          weight: 400
+        - asset: assets/fonts/poppinsmediumitalic500.ttf
+          weight: 500

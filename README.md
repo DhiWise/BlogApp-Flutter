@@ -8,6 +8,7 @@ The Flutter app builder with identify all the design components and generate res
 
 Once the configuration is completed, Developers can download the source code or sync it to GitHub or GitLab.
 
+![DhiWise](./screenshots/dhiwise_ui.gif)
 
 # BlogApp
 
@@ -100,3 +101,15 @@ Project structure is divided into 5 folders.
 **6. theme**
 
 - Theme contains code for text-styles, various decorations for borders and containers, are defined here.
+
+#Application screenshots
+
+![Blog Screen](./screenshots/blog_screen.jpg)
+![Drawer Menu](./screenshots/drawer_menu_screen.jpg)
+![Explore Screen](./screenshots/explore_screen.jpg)
+![Home Screen](./screenshots/home_screen.jpg)
+![Interest People Screen](./screenshots/interest_people_screen.jpg)
+![Interest Publication Screen](./screenshots/interest_publication_screen.jpg)
+![Interest Topics Screen](./screenshots/interest_topics_screen.jpg)
+![Interest Screen](./screenshots/intrests_screen.jpg)
+![Search Screen](./screenshots/search_topics_screen.jpg)

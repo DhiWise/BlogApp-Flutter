@@ -105,7 +105,7 @@ Project structure is divided into 5 folders.
 #Application screenshots
 
 ![Blog Screen](./screenshots/blog_screen.jpg)
-![Drawer Menu](./screenshots/drawer_menu_screen.jpg)
+    ![Drawer Menu](./screenshots/drawer_menu_screen.jpg)
 ![Explore Screen](./screenshots/explore_screen.jpg)
 ![Home Screen](./screenshots/home_screen.jpg)
 ![Interest People Screen](./screenshots/interest_people_screen.jpg)

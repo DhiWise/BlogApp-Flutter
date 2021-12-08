@@ -99,7 +99,7 @@ Project structure is divided into 5 folders.
 
 - Theme contains code for text-styles, various decorations for borders and containers, are defined here.
 
-## Demo Application -  [Blog_App](./blog.apk) 
+## Demo Application -  [Blog_App](https://github.com/DhiWise/BlogApp-Flutter/raw/master/blog.apk) 
 
 ## Application screenshots
 

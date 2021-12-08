@@ -366,7 +366,274 @@ class AppNavigationScreen extends GetView<AppNavigationController> {
                                                       decoration: BoxDecoration(
                                                           color: ColorConstant
                                                               .bluegray_400))
+                                                ]))),
+                                  
+                                  
+                                    GestureDetector(
+                                        onTap: () {
+                                          onTapSignIn();
+                                        },
+                                        child: Container(
+                                            decoration: BoxDecoration(
+                                                color:
+                                                    ColorConstant.white_A700),
+                                            child: Column(
+                                                crossAxisAlignment:
+                                                    CrossAxisAlignment.start,
+                                                mainAxisAlignment:
+                                                    MainAxisAlignment.start,
+                                                children: [
+                                                  Padding(
+                                                      padding: EdgeInsets.only(
+                                                          left: getHorizontalSize(
+                                                              20),
+                                                          top: getVerticalSize(
+                                                              10),
+                                                          right:
+                                                              getHorizontalSize(
+                                                                  20),
+                                                          bottom: getVerticalSize(
+                                                              10)),
+                                                      child: Text(
+                                                          controller
+                                                              .appNavigationModelObj
+                                                              .value.txtSignIn  
+                                                              .value,
+                                                          textAlign:
+                                                              TextAlign.center,
+                                                          style: AppStyle
+                                                              .textStyleregular20
+                                                              .copyWith(
+                                                                  fontSize:
+                                                                      getFontSize(
+                                                                          20)))),
+                                                  Container(
+                                                      height:
+                                                          getVerticalSize(1),
+                                                      width: getHorizontalSize(
+                                                          375),
+                                                      margin: EdgeInsets.only(
+                                                          top: getVerticalSize(
+                                                              5)),
+                                                      decoration: BoxDecoration(
+                                                          color: ColorConstant
+                                                              .bluegray_400))
+                                                ]))),
+                                    GestureDetector(
+                                        onTap: () {
+                                          onTapNotifications();
+                                        },
+                                        child: Container(
+                                            decoration: BoxDecoration(
+                                                color:
+                                                ColorConstant.white_A700),
+                                            child: Column(
+                                                crossAxisAlignment:
+                                                CrossAxisAlignment.start,
+                                                mainAxisAlignment:
+                                                MainAxisAlignment.start,
+                                                children: [
+                                                  Padding(
+                                                      padding: EdgeInsets.only(
+                                                          left:
+                                                          getHorizontalSize(
+                                                              20),
+                                                          top: getVerticalSize(
+                                                              10),
+                                                          right:
+                                                          getHorizontalSize(
+                                                              20),
+                                                          bottom:
+                                                          getVerticalSize(
+                                                              10)),
+                                                      child: Text(
+                                                          controller
+                                                              .appNavigationModelObj
+                                                              .value.txtNotification
+                                                              .value,
+                                                          textAlign:
+                                                          TextAlign.center,
+                                                          style: AppStyle
+                                                              .textStyleregular20
+                                                              .copyWith(
+                                                              fontSize:
+                                                              getFontSize(
+                                                                  20)))),
+                                                  Container(
+                                                      height:
+                                                      getVerticalSize(1),
+                                                      width: getHorizontalSize(
+                                                          375),
+                                                      margin: EdgeInsets.only(
+                                                          top: getVerticalSize(
+                                                              5)),
+                                                      decoration: BoxDecoration(
+                                                          color: ColorConstant
+                                                              .bluegray_400))
+                                                ]))),
+
+
+
+                                    GestureDetector(
+                                        onTap: () {
+                                          onTapSignUp();
+                                        },
+                                        child: Container(
+                                            decoration: BoxDecoration(
+                                                color:
+                                                    ColorConstant.white_A700),
+                                            child: Column(
+                                                crossAxisAlignment:
+                                                    CrossAxisAlignment.start,
+                                                mainAxisAlignment:
+                                                    MainAxisAlignment.start,
+                                                children: [
+                                                  Padding(
+                                                      padding: EdgeInsets.only(
+                                                          left: getHorizontalSize(
+                                                              20),
+                                                          top: getVerticalSize(
+                                                              10),
+                                                          right:
+                                                              getHorizontalSize(
+                                                                  20),
+                                                          bottom: getVerticalSize(
+                                                              10)),
+                                                      child: Text(
+                                                          controller
+                                                              .appNavigationModelObj
+                                                              .value
+                                                              .txtSingUp
+                                                              .value,
+                                                          textAlign:
+                                                              TextAlign.center,
+                                                          style: AppStyle
+                                                              .textStyleregular20
+                                                              .copyWith(
+                                                                  fontSize:
+                                                                      getFontSize(
+                                                                          20)))),
+                                                  Container(
+                                                      height:
+                                                          getVerticalSize(1),
+                                                      width: getHorizontalSize(
+                                                          375),
+                                                      margin: EdgeInsets.only(
+                                                          top: getVerticalSize(
+                                                              5)),
+                                                      decoration: BoxDecoration(
+                                                          color: ColorConstant
+                                                              .bluegray_400))
+                                                ]))),
+                                                GestureDetector(
+                                        onTap: () {
+                                          onTapTermsAndCondition();
+                                        },
+                                        child: Container(
+                                            decoration: BoxDecoration(
+                                                color:
+                                                    ColorConstant.white_A700),
+                                            child: Column(
+                                                crossAxisAlignment:
+                                                    CrossAxisAlignment.start,
+                                                mainAxisAlignment:
+                                                    MainAxisAlignment.start,
+                                                children: [
+                                                  Padding(
+                                                      padding: EdgeInsets.only(
+                                                          left: getHorizontalSize(
+                                                              20),
+                                                          top: getVerticalSize(
+                                                              10),
+                                                          right:
+                                                              getHorizontalSize(
+                                                                  20),
+                                                          bottom: getVerticalSize(
+                                                              10)),
+                                                      child: Text(
+                                                          controller
+                                                              .appNavigationModelObj
+                                                              .value
+                                                              .txtTermsAndCondition
+                                                              .value,
+                                                          textAlign:
+                                                              TextAlign.center,
+                                                          style: AppStyle
+                                                              .textStyleregular20
+                                                              .copyWith(
+                                                                  fontSize:
+                                                                      getFontSize(
+                                                                          20)))),
+                                                  Container(
+                                                      height:
+                                                          getVerticalSize(1),
+                                                      width: getHorizontalSize(
+                                                          375),
+                                                      margin: EdgeInsets.only(
+                                                          top: getVerticalSize(
+                                                              5)),
+                                                      decoration: BoxDecoration(
+                                                          color: ColorConstant
+                                                              .bluegray_400))
+                                                ]))),
+
+
+                                      GestureDetector(
+                                        onTap: () {
+                                         onTaprivacyPolicy();
+                                        },
+                                        child: Container(
+                                            decoration: BoxDecoration(
+                                                color:
+                                                    ColorConstant.white_A700),
+                                            child: Column(
+                                                crossAxisAlignment:
+                                                    CrossAxisAlignment.start,
+                                                mainAxisAlignment:
+                                                    MainAxisAlignment.start,
+                                                children: [
+                                                  Padding(
+                                                      padding: EdgeInsets.only(
+                                                          left: getHorizontalSize(
+                                                              20),
+                                                          top: getVerticalSize(
+                                                              10),
+                                                          right:
+                                                              getHorizontalSize(
+                                                                  20),
+                                                          bottom: getVerticalSize(
+                                                              10)),
+                                                      child: Text(
+                                                          controller
+                                                              .appNavigationModelObj
+                                                              .value
+                                                              .txtPrivacyPolicy
+                                                              .value,
+                                                          textAlign:
+                                                              TextAlign.center,
+                                                          style: AppStyle
+                                                              .textStyleregular20
+                                                              .copyWith(
+                                                                  fontSize:
+                                                                      getFontSize(
+                                                                          20)))),
+                                                  Container(
+                                                      height:
+                                                          getVerticalSize(1),
+                                                      width: getHorizontalSize(
+                                                          375),
+                                                      margin: EdgeInsets.only(
+                                                          top: getVerticalSize(
+                                                              5)),
+                                                      decoration: BoxDecoration(
+                                                          color: ColorConstant
+                                                              .bluegray_400))
                                                 ])))
+
+
+                                  
+                                  
+                                  
                                   ]))))
                 ])));
   }
@@ -386,6 +653,9 @@ class AppNavigationScreen extends GetView<AppNavigationController> {
   onTapInterests() {
     Get.toNamed(AppRoutes.interestsScreen);
   }
+  onTapNotifications() {
+    Get.toNamed(AppRoutes.notificationsScreen);
+  }
 
   onTapSearchTopics() {
     Get.toNamed(AppRoutes.searchTopicsScreen);
@@ -393,5 +663,17 @@ class AppNavigationScreen extends GetView<AppNavigationController> {
 
   onTapInterestsTopics() {
     Get.toNamed(AppRoutes.interestsTopics1Screen);
+  }
+  onTapSignUp() {
+    Get.toNamed(AppRoutes.signUpScreen);
+  }
+  onTapSignIn() {
+    Get.toNamed(AppRoutes.signInScreen);
+  }
+  onTapTermsAndCondition() {
+    Get.toNamed(AppRoutes.termsAndConditionsScreen);
+  }
+  onTaprivacyPolicy() {
+    Get.toNamed(AppRoutes.privacyPolicyScreen);
   }
 }

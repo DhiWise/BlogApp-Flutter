@@ -16,4 +16,14 @@ class AppNavigationModel {
   Rx<String> txtSearchTopics = Rx('lbl_search_topics'.tr);
 
   Rx<String> txtInterestsTop = Rx('msg_interests_top'.tr);
+
+  Rx<String> txtNotification = Rx( 'lbl_notifications'.tr);
+
+  Rx<String> txtSignIn = Rx('msg_sign_in'.tr);
+
+  Rx<String> txtSingUp = Rx('msg_sign_up'.tr);
+
+  Rx<String> txtTermsAndCondition = Rx('msg_terms_and_condition'.tr);
+
+  Rx<String> txtPrivacyPolicy = Rx('msg_privacy_policy'.tr);
 }

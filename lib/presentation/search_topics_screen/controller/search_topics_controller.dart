@@ -11,9 +11,6 @@ class SearchTopicsController extends GetxController {
   @override
   void onReady() {
     super.onReady();
-    Future.delayed(const Duration(milliseconds: 1000), () {
-      Get.toNamed(AppRoutes.homeScreen);
-    });
   }
 
   @override

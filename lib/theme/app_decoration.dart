@@ -28,7 +28,7 @@ class AppDecoration {
         color: ColorConstant.white_A700_6c,
         borderRadius: BorderRadius.circular(
           getHorizontalSize(
-            100,
+            25,
           ),
         ),
         border: Border.all(
@@ -42,9 +42,15 @@ class AppDecoration {
         color: ColorConstant.light_blue_A200,
         borderRadius: BorderRadius.circular(
           getHorizontalSize(
-            100,
+            25,
           ),
         ),
+    border: Border.all(
+      color: ColorConstant.light_blue_A200,
+      width: getHorizontalSize(
+        1,
+      ),
+    ),
       );
   static get textStylePoppinsregular14_7 => BoxDecoration(
         color: ColorConstant.white_A700_6c,

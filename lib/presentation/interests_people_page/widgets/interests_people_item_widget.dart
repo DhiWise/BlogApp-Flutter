@@ -11,12 +11,12 @@ class InterestsPeopleItemWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: getHorizontalSize(
-        324,
-      ),
+//      width: getHorizontalSize(
+//        324,
+//      ),
       margin: EdgeInsets.only(
         top: getVerticalSize(
-          25,
+          15,
         ),
         bottom: getVerticalSize(
           25,
@@ -53,7 +53,7 @@ class InterestsPeopleItemWidget extends StatelessWidget {
                 ),
               ),
               child: Column(
-                crossAxisAlignment: CrossAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.start,
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: [
                   Text(

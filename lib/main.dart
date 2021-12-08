@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       initialBinding: BindingsBuilder(() {
         Get.put(PrefUtils().init());
       }),
-      initialRoute: AppRoutes.initialRoute,
+      initialRoute: AppRoutes.signInScreen,
       getPages: AppRoutes.pages,
     );
   }

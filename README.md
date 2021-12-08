@@ -1,19 +1,15 @@
-This repository contains Flutter app code generated from [the DhiWise platform](https://app.dhiwise.com/sign-up). The app code showcases all the awesome features DhiWise provides; its functionality, and the speed at which developers can create apps on the DhiWise platform.
-
-# How was the code generated?
-
-Flutter developers only need the app design (Figma, XD, or Sketch) or pick a design template from the DhiWise template library, to start creating their app.
-
-The Flutter app builder with identify all the design components and generate respective code for the view components within seconds. Additionally, we provide features to change view component type and to create actions for view components.
-
-Once the configuration is completed, Developers can download the source code or sync it to GitHub or GitLab.
-
- 
-   <img align="centre" src="./screenshots/dhiwise_ui.gif" width="650"/>
-
 # BlogApp
 
-A new Flutter project.
+Medium-clone blogging application built using Flutter.
+
+## Features
+
+- User authentication
+- Blog list
+- Read Blogs
+- Search topics to read
+- Follow other bloggers according to your interest
+
 
 ## SDK Versions
 
@@ -102,6 +98,7 @@ Project structure is divided into 5 folders.
 **6. theme**
 
 - Theme contains code for text-styles, various decorations for borders and containers, are defined here.
+
 
 ## Application screenshots
 

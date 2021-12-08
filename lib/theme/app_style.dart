@@ -9,6 +9,44 @@ class AppStyle {
     ),
   );
 
+  static TextStyle textStylePoppinssemibold18 =
+      textStylePoppinssemibold24.copyWith(
+    fontSize: getFontSize(
+      18,
+    ),
+  );
+
+  static TextStyle textStylePoppinsregular18 =
+      textStylePoppinsregular16.copyWith(
+    fontSize: getFontSize(
+      18,
+    ),
+  );
+
+  static TextStyle textStylePlantagenetCherokee32 = TextStyle(
+    color: ColorConstant.gray_900,
+    fontSize: getFontSize(
+      32,
+    ),
+  );
+
+  static TextStyle textStylePoppinsmedium18 =
+      textStylePoppinsmediumitalic14.copyWith(
+    fontSize: getFontSize(
+      18,
+    ),
+  );
+
+  static TextStyle textStylePoppinslight14 =
+      textStylePoppinsmediumitalic14.copyWith();
+
+  static TextStyle textStylePoppinsitalic12 =
+      textStylePoppinsregular16.copyWith(
+    fontSize: getFontSize(
+      12,
+    ),
+  );
+
   static TextStyle textStylePoppinsregular20 =
       textStylePoppinsregular16_1.copyWith(
     fontSize: getFontSize(
@@ -151,16 +189,9 @@ class AppStyle {
   );
 
   static TextStyle textStylePoppinsregular14 =
-      textStylePoppinsregular16.copyWith(
-    fontSize: getFontSize(
-      14,
-    ),
-  );
+      textStylePoppinsregular16.copyWith();
 
   static TextStyle textStylePoppinsregular16 = TextStyle(
     color: ColorConstant.black_900,
-    fontSize: getFontSize(
-      16,
-    ),
   );
 }

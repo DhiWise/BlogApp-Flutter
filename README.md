@@ -99,16 +99,21 @@ Project structure is divided into 5 folders.
 
 - Theme contains code for text-styles, various decorations for borders and containers, are defined here.
 
+## Demo Application -  [Blog_App](./blog.apk) 
 
 ## Application screenshots
 
 
-| Blog Screen      | Drawer Menu      | Explore Screen      |
+| Sign Up Screen      | Sign In Screen      | Home Screen      |
 |------------|-------------|-------------|
+|<img src="./screenshots/Sign_Up_Screen.jpg" width="250"/> | <img src="./screenshots/Sign_in_Screen.jpg" width="250"/> | <img src="./screenshots/home_screen.jpg" width="250"/> |
+| Blog Screen      | Drawer Menu      | Explore Screen      |
 |<img src="./screenshots/blog_screen.jpg" width="250"/> | <img src="./screenshots/drawer_menu_screen.jpg" width="250"/> | <img src="./screenshots/explore_screen.jpg" width="250"/> |
-| Home Screen     | Interest People Screen      | Interest Publication Screen      |
-|<img src="./screenshots/home_screen.jpg" width="250"/> | <img src="./screenshots/interest_people_screen.jpg" width="250"/> | <img src="./screenshots/interest_publication_screen.jpg" width="250"/> |
+| Notification Screen     | Interest People Screen      | Interest Publication Screen      |
+|<img src="./screenshots/Notifications_Screen.jpg" width="250"/> | <img src="./screenshots/interest_people_screen.jpg" width="250"/> | <img src="./screenshots/interest_publication_screen.jpg" width="250"/> |
 | Interest Topics Screen      | Interest Screen      | Search Screen      |
 |<img src="./screenshots/interest_topics_screen.jpg" width="250"/> | <img src="./screenshots/intrests_screen.jpg" width="250"/> | <img src="./screenshots/search_topics_screen.jpg" width="250"/> |
+| Privacy Screen    | Terms and Condtions Screen     |
+|<img src="./screenshots/Privacy_Policy_Screen.jpg" width="250"/> | <img src="./screenshots/Terms_And_Conditions_Screen.jpg" width="250"/> |
 
 

@@ -55,7 +55,6 @@ class AppRoutes {
 
   static String signUpScreen = '/sign_up_screen';
 
-  static String appNavigationScreen = '/app_navigation_screen';
 
   static String initialRoute = '/initialRoute';
 
@@ -138,13 +137,7 @@ class AppRoutes {
         InterestsTopics1Binding(),
       ],
     ),
-    GetPage(
-      name: appNavigationScreen,
-      page: () => AppNavigationScreen(),
-      bindings: [
-        AppNavigationBinding(),
-      ],
-    ),
+
     GetPage(
       name: initialRoute,
       page: () => SignUpScreen(),

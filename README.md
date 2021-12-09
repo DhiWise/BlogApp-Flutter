@@ -25,9 +25,7 @@ Flutter SDK Version 2.0.0 or greater.
 4. [fluttertoast](https://pub.dev/packages/fluttertoast) - Toast Library for Flutter
 
 
-## App Navigation
 
-Check your app's UI from the AppNavigation screen of your app.
 
 ## Package Structure
 
@@ -99,7 +97,7 @@ Project structure is divided into 5 folders.
 
 - Theme contains code for text-styles, various decorations for borders and containers, are defined here.
 
-## Demo Application -  [Blog_App](https://github.com/DhiWise/BlogApp-Flutter/raw/master/blog.apk) 
+## Demo android Application -  [Blog_App.apk](https://github.com/DhiWise/BlogApp-Flutter/raw/master/blog.apk) 
 
 ## Application screenshots
 

@@ -1,11 +1,13 @@
 # This is a generated file; do not edit or check into version control.
-connectivity=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.6/
-connectivity_for_web=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/
-connectivity_macos=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/
-path_provider_linux=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
-path_provider_windows=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
-shared_preferences=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.7/
-shared_preferences_linux=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.2/
-shared_preferences_macos=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
-shared_preferences_web=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.2/
-shared_preferences_windows=/home/dhruvgandhi/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.2/
+connectivity=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.6/
+connectivity_for_web=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/
+connectivity_macos=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/
+path_provider_linux=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.2/
+path_provider_windows=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.4/
+shared_preferences=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.9/
+shared_preferences_android=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.9/
+shared_preferences_ios=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.0.8/
+shared_preferences_linux=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.3/
+shared_preferences_macos=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
+shared_preferences_web=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.2/
+shared_preferences_windows=/home/tusharasodariya/Documents/flutter_linux_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.3/

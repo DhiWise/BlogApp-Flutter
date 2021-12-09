@@ -14,8 +14,6 @@ import 'package:application1blogflutter2/presentation/search_topics_screen/searc
 import 'package:application1blogflutter2/presentation/search_topics_screen/binding/search_topics_binding.dart';
 import 'package:application1blogflutter2/presentation/interests_topics1_screen/interests_topics1_screen.dart';
 import 'package:application1blogflutter2/presentation/interests_topics1_screen/binding/interests_topics1_binding.dart';
-import 'package:application1blogflutter2/presentation/app_navigation_screen/app_navigation_screen.dart';
-import 'package:application1blogflutter2/presentation/app_navigation_screen/binding/app_navigation_binding.dart';
 import 'package:application1blogflutter2/presentation/sign_in_screen/binding/sign_in_binding.dart';
 import 'package:application1blogflutter2/presentation/sign_in_screen/sign_in_screen.dart';
 import 'package:application1blogflutter2/presentation/sign_up_screen/binding/sign_up_binding.dart';
